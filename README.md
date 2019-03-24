@@ -1,6 +1,6 @@
 # Automatic Encoder-Decoder Seq2Seq: English Chatbot
 ## エンコーダ・デコーダLSTMによるSeq2Seqによる英語チャットボット
-![](https://cdn-images-1.medium.com/max/2600/1*sO-SP58T4brE9EHazHSeGA.png)
+![](https://cdn-images-1.medium.com/max/2560/1*1I2tTjCkMHlQ-r73eRn4ZQ.png)
 
 ## Introduction
 
